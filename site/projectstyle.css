@@ -1,0 +1,61 @@
+
+body {
+background-color: black; color: red; FONT-FAMILY: verdana; FONT-SIZE: 10pt; FONT-STYLE: normal;  /*background-image: url('My_logo.jpg') */
+}
+
+H1 {
+color: blue ;  FONT-FAMILY: arial; FONT-SIZE: 18pt; 
+}
+H2 {
+COLOR: #000000; FONT-FAMILY: verdana; FONT-SIZE: 14pt; FONT-STYLE: normal; 
+}
+H3 {
+COLOR: #000000; FONT-FAMILY: verdana; FONT-SIZE: 12pt; FONT-STYLE: normal; 
+}
+H4 {
+COLOR: #000000; FONT-FAMILY: verdana; FONT-SIZE: 10pt; FONT-STYLE: normal; 
+
+
+.col {
+COLOR: #dddddd; font-family: verdana; FONT-SIZE: 12px;
+margin:0 auto; 
+width : 20%;
+}
+
+.col:hover{
+color : purple;
+}
+
+A:link .{
+COLOR: #000000; TEXT-DECORATION: none
+}
+
+A:visited  {
+TEXT-DECORATION: none
+background-color : green;
+color : red;
+}
+
+A:hover , A:active {
+	color : purple;
+}
+
+P {
+	color : blue; font-size: 10px;
+	width : 200px;
+	text-align : center;
+	background-color: yellow;
+	font-style: bold;
+}
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
